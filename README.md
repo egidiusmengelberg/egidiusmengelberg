@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on [nuxt-aos](https://github.com/egidiusmengelberg/nuxt-aos)
 
-- 👨‍💻 All of my projects are available at [https://egidius.io](https://egidius.io)
+- 👨‍💻 All of my projects are available at [https://egidius.nl](https://egidius.nl)
 
 - 💬 Ask me about **Directus, Nuxt and Laravel**
 
-- 📫 How to reach me **hello@egidius.io**
+- 📫 How to reach me **egidius@egidius.nl**
